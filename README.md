@@ -45,6 +45,8 @@
 28. [字符集和字符编码](https://www.cnblogs.com/skynet/archive/2011/05/03/2035105.html)
 29. [如何优雅地写js异步循环](https://iammapping.com/write-js-async-loop-gracefully/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 30. [JavaScript 如何工作：对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
+31. [你不知的DOM编程](http://mp.weixin.qq.com/s/p6UecLHG_JKTySMdD1AY_Q)
+32. [javascript内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -61,13 +63,15 @@
 12. [给自己的Fonts教程](https://segmentfault.com/a/1190000009920615)
 13. [借助CSS Shapes实现元素滚动自动环绕iPhone X的刘海](http://www.zhangxinxu.com/wordpress/2017/09/css-shapes-outside-iphone-x-head/)
 14. [表格边框你知多少](https://isux.tencent.com/articles/isux-table-border.html)
-
+15. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+16. [打造高性能剪切动画](https://mp.weixin.qq.com/s/LXU5m5op5PZRC48VuhSeIA)
 
 ## HTML
 1. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)
 2. [HTML5中手势原理分析与数学知识的实践](http://www.tuicool.com/articles/3aaiqi2)
 4. [提高 HTML5 画布性能](https://www.html5rocks.com/zh/tutorials/canvas/performance/)
 5. [基于html5 File API的文件操作]( https://zhaomenghuan.github.io/2016/08/16/JavaScript%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E5%9F%BA%E4%BA%8Ehtml5%20File%20API%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/)
+6. [SVG Sprite 使用简介](https://blog.kaolafed.com/2017/04/25/SVG%20Sprite%20%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/)
 
 ## 后端
 1. [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
@@ -107,6 +111,7 @@
 5. [localstorage还能这么用](https://mp.weixin.qq.com/s/vy7pRk97T7SN7Jc-uI_smQ)
 6. [H5本地存储详细使用教程（localStorage + JSON数据存储应用框架）](http://blog.csdn.net/a727911438/article/details/54290931)
 7. [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
+8. [计算机主机网关的作用是什么？](https://www.cnblogs.com/hsit0318/p/5613168.html)
 
 ## 安全
 1. [DNS安全初探](https://yq.aliyun.com/articles/74193)
@@ -120,3 +125,4 @@
 2. [操作系统是个大骗子 - 程序是怎么被转载和执行的](http://mp.weixin.qq.com/s/Q0SaoTg9GTXwOeh0GmLOuQ)
 3. [如何读懂火焰图](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
 4. [关于“回车”（carriage return）和“换行”（line feed）这两个概念的来历和区别]( http://www.techug.com/post/carriage-return-and-line-feed.html)
+5. [Git的4个阶段的撤销更改](http://www.techug.com/post/undo-on-4-stage-of-git-commint.html)
