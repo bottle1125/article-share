@@ -65,6 +65,7 @@
 14. [表格边框你知多少](https://isux.tencent.com/articles/isux-table-border.html)
 15. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 16. [打造高性能剪切动画](https://mp.weixin.qq.com/s/LXU5m5op5PZRC48VuhSeIA)
+17. [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing)
 
 ## HTML
 1. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)
@@ -72,6 +73,7 @@
 4. [提高 HTML5 画布性能](https://www.html5rocks.com/zh/tutorials/canvas/performance/)
 5. [基于html5 File API的文件操作]( https://zhaomenghuan.github.io/2016/08/16/JavaScript%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E5%9F%BA%E4%BA%8Ehtml5%20File%20API%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/)
 6. [SVG Sprite 使用简介](https://blog.kaolafed.com/2017/04/25/SVG%20Sprite%20%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/)
+7. [前端本地文件操作与上传](https://juejin.im/post/5a193b4bf265da43052e528a)
 
 ## 后端
 1. [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
@@ -87,6 +89,7 @@
 4. [React Native 从入门到原理](http://www.jianshu.com/p/978c4bd3a759)
 5. [React Native Animated动画](http://blog.csdn.net/xiangzhihong8/article/details/72783571?ref=myread)
 6. [react-navigation 导航组件](http://www.jianshu.com/p/2f575cc35780)
+7. [是否引入React Native](https://mp.weixin.qq.com/s/-NYNJqafdfGWbtUYCwSXWQ)
 
 ## 工程构建
 1. [从零搭建vue2+vue-router2+webpack2工程](http://www.qinshenxue.com/article/20161118151423.html)
@@ -112,6 +115,7 @@
 6. [H5本地存储详细使用教程（localStorage + JSON数据存储应用框架）](http://blog.csdn.net/a727911438/article/details/54290931)
 7. [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)
 8. [计算机主机网关的作用是什么？](https://www.cnblogs.com/hsit0318/p/5613168.html)
+9. [Web 网页爬虫对抗指南系列](https://toutiao.io/posts/l6lg6r)
 
 ## 安全
 1. [DNS安全初探](https://yq.aliyun.com/articles/74193)
@@ -126,3 +130,6 @@
 3. [如何读懂火焰图](http://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
 4. [关于“回车”（carriage return）和“换行”（line feed）这两个概念的来历和区别]( http://www.techug.com/post/carriage-return-and-line-feed.html)
 5. [Git的4个阶段的撤销更改](http://www.techug.com/post/undo-on-4-stage-of-git-commint.html)
+6. [vscode编写插件详细过程](http://www.cnblogs.com/caipeiyu/p/5507252.html)
+7. [你应该了解的常用 Linux 技巧](https://mp.weixin.qq.com/s/nc0kv8778iEPCJx5H1xXlw)
+8. [The Accessibility Cheatsheet]( https://bitsofco.de/the-accessibility-cheatsheet/)
