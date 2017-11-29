@@ -81,6 +81,7 @@
 3. [安息吧 REST API，GraphQL 长存](https://mp.weixin.qq.com/s/cW1v9Jjtdzx8Cvv4XLxvow)
 4. [漫画：什么是Base64算法？]( https://mp.weixin.qq.com/s/1xd_sZRzsN9eMeG-tgoX1w)
 5. [Immutable.js 可持久化数据结构以及结构分享](http://www.zcfy.cc/article/immutable-js-persistent-data-structures-and-structural-sharing-4292.html?t=)
+6. [GraphQL 技术栈揭秘](https://juejin.im/entry/5a1cfc6a518825293b500d09?utm_source=gold_browser_extension)
 
 ## JavaScript相关库
 1. [RxJS入门](https://juejin.im/post/597fe587518825563e037bd3)
