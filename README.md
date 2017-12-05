@@ -47,6 +47,7 @@
 30. [JavaScript 如何工作：对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
 31. [你不知的DOM编程](http://mp.weixin.qq.com/s/p6UecLHG_JKTySMdD1AY_Q)
 32. [javascript内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
+33. [吹毛求疵的追求优雅高性能JavaScript](http://jawil/blog: Issue #2)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -82,6 +83,7 @@
 4. [漫画：什么是Base64算法？]( https://mp.weixin.qq.com/s/1xd_sZRzsN9eMeG-tgoX1w)
 5. [Immutable.js 可持久化数据结构以及结构分享](http://www.zcfy.cc/article/immutable-js-persistent-data-structures-and-structural-sharing-4292.html?t=)
 6. [GraphQL 技术栈揭秘](https://juejin.im/entry/5a1cfc6a518825293b500d09?utm_source=gold_browser_extension)
+7. [‘好’维护的NodeJs应用](https://toutiao.io/posts/lbyzdj)
 
 ## JavaScript相关库
 1. [RxJS入门](https://juejin.im/post/597fe587518825563e037bd3)
@@ -94,6 +96,9 @@
 
 ## 工程构建
 1. [从零搭建vue2+vue-router2+webpack2工程](http://www.qinshenxue.com/article/20161118151423.html)
+2. [Webpack 3.X版本 成神之路](https://www.chungold.com/my/course/32)
+3. [webpack 打包优化](https://jeffjade.com/2017/08/06/124-webpack-packge-optimization-for-volume/?from=sf)
+4. [webpack之深入浅出externals](http://www.cnblogs.com/ssh-007/p/7957369.html)
 
 ## 数据结构和算法
 1. [我接触过的前端数据结构与算法](https://juejin.im/post/5958bac35188250d892f5c91)
@@ -134,3 +139,5 @@
 6. [vscode编写插件详细过程](http://www.cnblogs.com/caipeiyu/p/5507252.html)
 7. [你应该了解的常用 Linux 技巧](https://mp.weixin.qq.com/s/nc0kv8778iEPCJx5H1xXlw)
 8. [The Accessibility Cheatsheet]( https://bitsofco.de/the-accessibility-cheatsheet/)
+9. [无 Flash 时代，让直播拥抱 H5（MSE篇）](https://www.villainhr.com/page/2017/10/10/%E6%97%A0%20Flash%20%E6%97%B6%E4%BB%A3%EF%BC%8C%E8%AE%A9%E7%9B%B4%E6%92%AD%E6%8B%A5%E6%8A%B1%20H5%EF%BC%88MSE%E7%AF%87%EF%BC%89)
+10. [从WKWebView出发，以前端角度看混合开发](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484984&idx=1&sn=a83d09d3eb1a47184608e4eb7f95c7f1&chksm=972364faa054edecd0beefa3f6ccf09518fe4e4665008f707879a97241c073d1c23a3ccf78f9#rd)
