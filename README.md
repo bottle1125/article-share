@@ -48,6 +48,8 @@
 31. [你不知的DOM编程](http://mp.weixin.qq.com/s/p6UecLHG_JKTySMdD1AY_Q)
 33. [吹毛求疵的追求优雅高性能JavaScript](http://jawil/blog: Issue #2)
 34. [谈谈Javascript中的void操作符](https://segmentfault.com/a/1190000000474941)
+35. [最佳的"addEvent"是怎样诞生的](http://blog.csdn.net/oracle_microsoft/article/details/4458737)
+36. [精心收集的 48 个 JavaScript 代码片段，仅需 30 秒就可理解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651553296&idx=1&sn=dcec2412f5b4bdeef4971fd0c96f3958&chksm=8025a9d1b75220c77a9784056bb69a54cfb4d41dcc9dae971e321ce0074747bc6dc054505ae3&scene=38#wechat_redirect)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -68,6 +70,7 @@
 16. [打造高性能剪切动画](https://mp.weixin.qq.com/s/LXU5m5op5PZRC48VuhSeIA)
 17. [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing)
 18. [给自己的Fonts教程](http://www.bijishequ.com/detail/419305?p=70-64)
+19. [理解 CSS 布局和块级格式上下文](http://www.ferecord.com/understanding-css-layout-block-formatting-context.html)
 
 ## HTML
 1. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)
@@ -94,6 +97,7 @@
 5. [React Native Animated动画](http://blog.csdn.net/xiangzhihong8/article/details/72783571?ref=myread)
 6. [react-navigation 导航组件](http://www.jianshu.com/p/2f575cc35780)
 7. [是否引入React Native](https://mp.weixin.qq.com/s/-NYNJqafdfGWbtUYCwSXWQ)
+8. [Vue项目的自动化测试](https://segmentfault.com/a/1190000011062084)
 
 ## 工程构建
 1. [从零搭建vue2+vue-router2+webpack2工程](http://www.qinshenxue.com/article/20161118151423.html)
@@ -125,6 +129,7 @@
 8. [计算机主机网关的作用是什么？](https://www.cnblogs.com/hsit0318/p/5613168.html)
 9. [Web 网页爬虫对抗指南系列](https://toutiao.io/posts/l6lg6r)
 10. [浅谈Web图像优化](https://mp.weixin.qq.com/s/G5doBgboc5EMpZD49CeUXg)
+11. [Http-Cookie机制及Cookie的实现原理](http://www.jianshu.com/p/896e58dbcced)
 
 ## 安全
 1. [DNS安全初探](https://yq.aliyun.com/articles/74193)
@@ -149,3 +154,5 @@
 9. [无 Flash 时代，让直播拥抱 H5（MSE篇）](https://www.villainhr.com/page/2017/10/10/%E6%97%A0%20Flash%20%E6%97%B6%E4%BB%A3%EF%BC%8C%E8%AE%A9%E7%9B%B4%E6%92%AD%E6%8B%A5%E6%8A%B1%20H5%EF%BC%88MSE%E7%AF%87%EF%BC%89)
 10. [从WKWebView出发，以前端角度看混合开发](https://mp.weixin.qq.com/s?__biz=MzIwNjQwMzUwMQ==&mid=2247484984&idx=1&sn=a83d09d3eb1a47184608e4eb7f95c7f1&chksm=972364faa054edecd0beefa3f6ccf09518fe4e4665008f707879a97241c073d1c23a3ccf78f9#rd)
 11. [通过示例学习使用 netstat](https://mp.weixin.qq.com/s/7xdIPug8n7vO46xl9Ytmuw)
+12. [Steward](https://juejin.im/post/5a30adc251882531926eb4e4)
+13. [用 Headless Chrome 进行自动化测试](http://zqpythonic.qiniucdn.com/data/20170912170722/index.html)
