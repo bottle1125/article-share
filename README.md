@@ -71,6 +71,9 @@
 17. [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing)
 18. [给自己的Fonts教程](http://www.bijishequ.com/detail/419305?p=70-64)
 19. [理解 CSS 布局和块级格式上下文](http://www.ferecord.com/understanding-css-layout-block-formatting-context.html)
+20. [表格元素完全指南](https://css-tricks.com/complete-guide-table-element/)
+21. [两行 CSS 代码实现图片任意颜色赋色技术](http://web.jobbole.com/93409/)
+22. [CSS3动画那么强，requestAnimationFrame还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%E5%8A%A8%E7%94%BB%E7%AE%97%E6%B3%95/)
 
 ## HTML
 1. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)
@@ -109,6 +112,7 @@
 ## 数据结构和算法
 1. [我接触过的前端数据结构与算法](https://juejin.im/post/5958bac35188250d892f5c91)
 2. [JS中的算法和数据结构——列表](http://www.jianshu.com/p/cea9f3be42f5)
+3. [图解冒泡排序](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514159&idx=1&sn=5fb3a6639cf6c3ba1aa8f41e577c5076&chksm=80d67cecb7a1f5fa5b734c506fc8d1bc54b64fc36643a2dbceb3c726ba9e05d3aa128974e42f&scene=38#wechat_redirect)
 
 ## 调试
 1. [Chrome开发者工具的153个技巧，还会动哦！](https://umaar.com/dev-tips/)
@@ -130,6 +134,7 @@
 9. [Web 网页爬虫对抗指南系列](https://toutiao.io/posts/l6lg6r)
 10. [浅谈Web图像优化](https://mp.weixin.qq.com/s/G5doBgboc5EMpZD49CeUXg)
 11. [Http-Cookie机制及Cookie的实现原理](http://www.jianshu.com/p/896e58dbcced)
+12. [9大浏览器端缓存机制分析](https://juejin.im/entry/5a3b1945518825256362d493)
 
 ## 安全
 1. [DNS安全初探](https://yq.aliyun.com/articles/74193)
