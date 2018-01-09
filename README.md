@@ -6,6 +6,8 @@
 * [HTML](#user-content-HTML)
 * [后端](#user-content-后端)
 * [JavaScript相关库](#user-content-JavaScript相关库)
+* [AI](#user-content-AI)
+* [WebGL](#WebGL)
 * [工程构建](#user-content-工程构建)
 * [数据结构和算法](#user-content-数据结构和算法)
 * [调试](#user-content-调试)
@@ -74,6 +76,8 @@
 20. [表格元素完全指南](https://css-tricks.com/complete-guide-table-element/)
 21. [两行 CSS 代码实现图片任意颜色赋色技术](http://web.jobbole.com/93409/)
 22. [CSS3动画那么强，requestAnimationFrame还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%E5%8A%A8%E7%94%BB%E7%AE%97%E6%B3%95/)
+23. [花式玩转CSS3](https://juejin.im/post/5a446d19f265da43052eebcc?utm_source=gold_browser_extension)
+24. [这个CSS问题屏幕前的你是否熟悉，然后懵逼，最后放弃](https://juejin.im/post/5a3b67096fb9a044fd11efd2)
 
 ## HTML
 1. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)
@@ -91,6 +95,7 @@
 5. [Immutable.js 可持久化数据结构以及结构分享](http://www.zcfy.cc/article/immutable-js-persistent-data-structures-and-structural-sharing-4292.html?t=)
 6. [GraphQL 技术栈揭秘](https://juejin.im/entry/5a1cfc6a518825293b500d09?utm_source=gold_browser_extension)
 7. [‘好’维护的NodeJs应用](https://toutiao.io/posts/lbyzdj)
+8. [黑客三兄弟](https://mp.weixin.qq.com/s/YvYvL0siJT1UhO0tXnYVNA)
 
 ## JavaScript相关库
 1. [RxJS入门](https://juejin.im/post/597fe587518825563e037bd3)
@@ -101,6 +106,12 @@
 6. [react-navigation 导航组件](http://www.jianshu.com/p/2f575cc35780)
 7. [是否引入React Native](https://mp.weixin.qq.com/s/-NYNJqafdfGWbtUYCwSXWQ)
 8. [Vue项目的自动化测试](https://segmentfault.com/a/1190000011062084)
+
+## AI
+1. [AI玩微信跳一跳的正确姿势](https://www.zhihu.com/column/p/32636329)
+
+## WebGL
+1. [Three.js 现学现卖](https://aotu.io/notes/2017/08/28/getting-started-with-threejs/index.html)
 
 ## 工程构建
 1. [从零搭建vue2+vue-router2+webpack2工程](http://www.qinshenxue.com/article/20161118151423.html)
@@ -136,6 +147,7 @@
 11. [Http-Cookie机制及Cookie的实现原理](http://www.jianshu.com/p/896e58dbcced)
 12. [9大浏览器端缓存机制分析](https://juejin.im/entry/5a3b1945518825256362d493)
 
+
 ## 安全
 1. [DNS安全初探](https://yq.aliyun.com/articles/74193)
 2. [程序世界里的不信任原则](https://cloud.tencent.com/community/article/715478?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
@@ -146,6 +158,8 @@
 7. [深入理解Node.js垃圾回收与内存管理](http://www.jianshu.com/p/4129a3fce7bb)
 8. [Javascript中常见的内存泄漏](https://github.com/zhansingsong/js-leakage-patterns)
 9. [javascript内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
+10. [网络安全-数据加密算法详解](http://blog.csdn.net/yuanmengong886/article/details/54614218)
+11. [对称加密算法的几种模式优缺点一览](http://blog.51cto.com/professor/1794740)
 
 ## 其他
 1. [Linux 文件系统概览](http://mp.weixin.qq.com/s/xXd17qgDrMARMP6V9sC7XQ)
