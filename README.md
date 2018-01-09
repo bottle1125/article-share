@@ -2,12 +2,12 @@
 
 ## 分类目录
 * [JavaScript](#user-content-javascript)
-* [CSS](#user-content-CSS)
-* [HTML](#user-content-HTML)
+* [CSS](#user-content-css)
+* [HTML](#user-content-html)
 * [后端](#user-content-后端)
 * [JavaScript相关库](#user-content-JavaScript相关库)
-* [AI](#user-content-AI)
-* [WebGL](#WebGL)
+* [AI](#user-content-ai)
+* [WebGL](#user-content-webgl)
 * [工程构建](#user-content-工程构建)
 * [数据结构和算法](#user-content-数据结构和算法)
 * [调试](#user-content-调试)
