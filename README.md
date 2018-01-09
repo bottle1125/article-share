@@ -5,7 +5,7 @@
 * [CSS](#user-content-css)
 * [HTML](#user-content-html)
 * [后端](#user-content-后端)
-* [JavaScript相关库](#user-content-JavaScript相关库)
+* [JavaScript相关库](#user-content-javascript相关库)
 * [AI](#user-content-ai)
 * [WebGL](#user-content-webgl)
 * [工程构建](#user-content-工程构建)
