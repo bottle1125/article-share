@@ -48,10 +48,9 @@
 29. [如何优雅地写js异步循环](https://iammapping.com/write-js-async-loop-gracefully/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 30. [JavaScript 如何工作：对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
 31. [你不知的DOM编程](http://mp.weixin.qq.com/s/p6UecLHG_JKTySMdD1AY_Q)
-33. [吹毛求疵的追求优雅高性能JavaScript](http://jawil/blog: Issue #2)
-34. [谈谈Javascript中的void操作符](https://segmentfault.com/a/1190000000474941)
-35. [最佳的"addEvent"是怎样诞生的](http://blog.csdn.net/oracle_microsoft/article/details/4458737)
-36. [精心收集的 48 个 JavaScript 代码片段，仅需 30 秒就可理解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651553296&idx=1&sn=dcec2412f5b4bdeef4971fd0c96f3958&chksm=8025a9d1b75220c77a9784056bb69a54cfb4d41dcc9dae971e321ce0074747bc6dc054505ae3&scene=38#wechat_redirect)
+32. [谈谈Javascript中的void操作符](https://segmentfault.com/a/1190000000474941)
+33. [最佳的"addEvent"是怎样诞生的](http://blog.csdn.net/oracle_microsoft/article/details/4458737)
+34. [精心收集的 48 个 JavaScript 代码片段，仅需 30 秒就可理解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651553296&idx=1&sn=dcec2412f5b4bdeef4971fd0c96f3958&chksm=8025a9d1b75220c77a9784056bb69a54cfb4d41dcc9dae971e321ce0074747bc6dc054505ae3&scene=38#wechat_redirect)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
