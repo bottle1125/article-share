@@ -51,6 +51,7 @@
 32. [谈谈Javascript中的void操作符](https://segmentfault.com/a/1190000000474941)
 33. [最佳的"addEvent"是怎样诞生的](http://blog.csdn.net/oracle_microsoft/article/details/4458737)
 34. [精心收集的 48 个 JavaScript 代码片段，仅需 30 秒就可理解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651553296&idx=1&sn=dcec2412f5b4bdeef4971fd0c96f3958&chksm=8025a9d1b75220c77a9784056bb69a54cfb4d41dcc9dae971e321ce0074747bc6dc054505ae3&scene=38#wechat_redirect)
+35. [JavaScript 的 Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html && https://github.com/creeperyang/blog/issues/21)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -77,6 +78,7 @@
 22. [CSS3动画那么强，requestAnimationFrame还有毛线用？](http://www.zhangxinxu.com/wordpress/2013/09/css3-animation-requestanimationframe-tween-%E5%8A%A8%E7%94%BB%E7%AE%97%E6%B3%95/)
 23. [花式玩转CSS3](https://juejin.im/post/5a446d19f265da43052eebcc?utm_source=gold_browser_extension)
 24. [这个CSS问题屏幕前的你是否熟悉，然后懵逼，最后放弃](https://juejin.im/post/5a3b67096fb9a044fd11efd2)
+25. [Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing)
 
 ## HTML
 1. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)
@@ -85,6 +87,7 @@
 5. [基于html5 File API的文件操作]( https://zhaomenghuan.github.io/2016/08/16/JavaScript%E8%BF%9B%E9%98%B6%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E5%9F%BA%E4%BA%8Ehtml5%20File%20API%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C/)
 6. [SVG Sprite 使用简介](https://blog.kaolafed.com/2017/04/25/SVG%20Sprite%20%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/)
 7. [前端本地文件操作与上传](https://juejin.im/post/5a193b4bf265da43052e528a)
+8. [UTF-X 当何物？](https://mp.weixin.qq.com/s/7UXd4uOCZ5J4Z0L_SO8oug)
 
 ## 后端
 1. [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
@@ -95,6 +98,7 @@
 6. [GraphQL 技术栈揭秘](https://juejin.im/entry/5a1cfc6a518825293b500d09?utm_source=gold_browser_extension)
 7. [‘好’维护的NodeJs应用](https://toutiao.io/posts/lbyzdj)
 8. [黑客三兄弟](https://mp.weixin.qq.com/s/YvYvL0siJT1UhO0tXnYVNA)
+9. [GraphQL搭配Koa最佳入门实践](https://juejin.im/post/5a49e5ccf265da430d585cfd#heading-5)
 
 ## JavaScript相关库
 1. [RxJS入门](https://juejin.im/post/597fe587518825563e037bd3)
@@ -174,3 +178,5 @@
 11. [通过示例学习使用 netstat](https://mp.weixin.qq.com/s/7xdIPug8n7vO46xl9Ytmuw)
 12. [Steward](https://juejin.im/post/5a30adc251882531926eb4e4)
 13. [用 Headless Chrome 进行自动化测试](http://zqpythonic.qiniucdn.com/data/20170912170722/index.html)
+14. [你死在回家的路上](https://weibo.com/1640752460/FCSkcuMZb?type=comment)
+15. [如何优雅地使用 Git](https://juejin.im/post/5a54386af265da3e3b7a6317)
