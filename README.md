@@ -52,6 +52,8 @@
 33. [最佳的"addEvent"是怎样诞生的](http://blog.csdn.net/oracle_microsoft/article/details/4458737)
 34. [精心收集的 48 个 JavaScript 代码片段，仅需 30 秒就可理解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651553296&idx=1&sn=dcec2412f5b4bdeef4971fd0c96f3958&chksm=8025a9d1b75220c77a9784056bb69a54cfb4d41dcc9dae971e321ce0074747bc6dc054505ae3&scene=38#wechat_redirect)
 35. [JavaScript 的 Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html && https://github.com/creeperyang/blog/issues/21)
+36. [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js)
+37. [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -79,6 +81,9 @@
 23. [花式玩转CSS3](https://juejin.im/post/5a446d19f265da43052eebcc?utm_source=gold_browser_extension)
 24. [这个CSS问题屏幕前的你是否熟悉，然后懵逼，最后放弃](https://juejin.im/post/5a3b67096fb9a044fd11efd2)
 25. [Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing)
+26. [前端绘制图形的几种方式](https://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/)
+27. [用css来做html代码检查](https://mp.weixin.qq.com/s/XQKNsmbzXXAMnfHIgCYwMA)
+
 
 ## HTML
 1. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)
@@ -109,6 +114,7 @@
 6. [react-navigation 导航组件](http://www.jianshu.com/p/2f575cc35780)
 7. [是否引入React Native](https://mp.weixin.qq.com/s/-NYNJqafdfGWbtUYCwSXWQ)
 8. [Vue项目的自动化测试](https://segmentfault.com/a/1190000011062084)
+9. [Canvas or SVG？一张好图，两手准备，就在 ECharts 4.0](https://zhuanlan.zhihu.com/p/33093211)
 
 ## AI
 1. [AI玩微信跳一跳的正确姿势](https://www.zhihu.com/column/p/32636329)
@@ -149,7 +155,7 @@
 10. [浅谈Web图像优化](https://mp.weixin.qq.com/s/G5doBgboc5EMpZD49CeUXg)
 11. [Http-Cookie机制及Cookie的实现原理](http://www.jianshu.com/p/896e58dbcced)
 12. [9大浏览器端缓存机制分析](https://juejin.im/entry/5a3b1945518825256362d493)
-
+13. [http2.0的时代真的来了](https://mp.weixin.qq.com/s/0m4R31gSV-DfY_-VOSb_jA)
 
 ## 安全
 1. [DNS安全初探](https://yq.aliyun.com/articles/74193)
