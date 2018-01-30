@@ -54,6 +54,7 @@
 35. [JavaScript 的 Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html && https://github.com/creeperyang/blog/issues/21)
 36. [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js)
 37. [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
+38. [如何做一个听话的“输入框”](https://mp.weixin.qq.com/s/CARRB4jWpiKFHfjBdnr8fQ)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -93,6 +94,7 @@
 6. [SVG Sprite 使用简介](https://blog.kaolafed.com/2017/04/25/SVG%20Sprite%20%E4%BD%BF%E7%94%A8%E7%AE%80%E4%BB%8B/)
 7. [前端本地文件操作与上传](https://juejin.im/post/5a193b4bf265da43052e528a)
 8. [UTF-X 当何物？](https://mp.weixin.qq.com/s/7UXd4uOCZ5J4Z0L_SO8oug)
+9. [HTML 5.2 有哪些新内容？](https://juejin.im/post/5a5dab05518825734107edda)
 
 ## 后端
 1. [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
@@ -156,6 +158,9 @@
 11. [Http-Cookie机制及Cookie的实现原理](http://www.jianshu.com/p/896e58dbcced)
 12. [9大浏览器端缓存机制分析](https://juejin.im/entry/5a3b1945518825256362d493)
 13. [http2.0的时代真的来了](https://mp.weixin.qq.com/s/0m4R31gSV-DfY_-VOSb_jA)
+14. [浏览器HTTP缓存机制](https://juejin.im/post/5a673af06fb9a01c927ed880?utm_source=gold_browser_extension)
+15. [大白话描述Intel的处理器漏洞，让所有人都能看懂](http://www.techug.com/post/intel-cpu-bounds-check-bypass.html)
+
 
 ## 安全
 1. [DNS安全初探](https://yq.aliyun.com/articles/74193)
@@ -186,3 +191,4 @@
 13. [用 Headless Chrome 进行自动化测试](http://zqpythonic.qiniucdn.com/data/20170912170722/index.html)
 14. [你死在回家的路上](https://weibo.com/1640752460/FCSkcuMZb?type=comment)
 15. [如何优雅地使用 Git](https://juejin.im/post/5a54386af265da3e3b7a6317)
+16. [手把手教你写Docker](https://mp.weixin.qq.com/s?__biz=MzIxMjAzMDA1MQ==&mid=2648946038&idx=1&sn=a020e98c8dcc3ab69af02db3b5312ba4&chksm=8f5b527ab82cdb6c381276bafe504b56be4e91fb9aa9a0729c34fdbb79e12d4ce52ecf45ae7f)
