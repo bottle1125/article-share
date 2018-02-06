@@ -51,10 +51,11 @@
 32. [谈谈Javascript中的void操作符](https://segmentfault.com/a/1190000000474941)
 33. [最佳的"addEvent"是怎样诞生的](http://blog.csdn.net/oracle_microsoft/article/details/4458737)
 34. [精心收集的 48 个 JavaScript 代码片段，仅需 30 秒就可理解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651553296&idx=1&sn=dcec2412f5b4bdeef4971fd0c96f3958&chksm=8025a9d1b75220c77a9784056bb69a54cfb4d41dcc9dae971e321ce0074747bc6dc054505ae3&scene=38#wechat_redirect)
-35. [JavaScript 的 Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html && https://github.com/creeperyang/blog/issues/21)
-36. [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js)
-37. [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
-38. [如何做一个听话的“输入框”](https://mp.weixin.qq.com/s/CARRB4jWpiKFHfjBdnr8fQ)
+35. [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+36. [从Promise来看JavaScript中的Event Loop、Tasks和Microtasks](https://github.com/creeperyang/blog/issues/21)
+37. [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js)
+38. [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
+39. [如何做一个听话的“输入框”](https://mp.weixin.qq.com/s/CARRB4jWpiKFHfjBdnr8fQ)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -84,6 +85,7 @@
 25. [Performant Parallaxing](https://developers.google.com/web/updates/2016/12/performant-parallaxing)
 26. [前端绘制图形的几种方式](https://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/)
 27. [用css来做html代码检查](https://mp.weixin.qq.com/s/XQKNsmbzXXAMnfHIgCYwMA)
+28. [CSS代码重构与优化之路](http://luopq.com/2016/01/05/css-optimize/)
 
 
 ## HTML
@@ -117,6 +119,7 @@
 7. [是否引入React Native](https://mp.weixin.qq.com/s/-NYNJqafdfGWbtUYCwSXWQ)
 8. [Vue项目的自动化测试](https://segmentfault.com/a/1190000011062084)
 9. [Canvas or SVG？一张好图，两手准备，就在 ECharts 4.0](https://zhuanlan.zhihu.com/p/33093211)
+10. [[React技术内幕] key带来了什么](https://juejin.im/post/59abb01c518825243f1b6dad)
 
 ## AI
 1. [AI玩微信跳一跳的正确姿势](https://www.zhihu.com/column/p/32636329)
@@ -160,6 +163,7 @@
 13. [http2.0的时代真的来了](https://mp.weixin.qq.com/s/0m4R31gSV-DfY_-VOSb_jA)
 14. [浏览器HTTP缓存机制](https://juejin.im/post/5a673af06fb9a01c927ed880?utm_source=gold_browser_extension)
 15. [大白话描述Intel的处理器漏洞，让所有人都能看懂](http://www.techug.com/post/intel-cpu-bounds-check-bypass.html)
+16. [Token认证的来龙去脉](https://juejin.im/post/5a6c60166fb9a01caf37a5e5?utm_source=gold_browser_extension)
 
 
 ## 安全
@@ -174,6 +178,8 @@
 9. [javascript内存泄漏教程](http://www.ruanyifeng.com/blog/2017/04/memory-leak.html)
 10. [网络安全-数据加密算法详解](http://blog.csdn.net/yuanmengong886/article/details/54614218)
 11. [对称加密算法的几种模式优缺点一览](http://blog.51cto.com/professor/1794740)
+12. [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
+
 
 ## 其他
 1. [Linux 文件系统概览](http://mp.weixin.qq.com/s/xXd17qgDrMARMP6V9sC7XQ)
