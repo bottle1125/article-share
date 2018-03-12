@@ -16,6 +16,7 @@
 * [安全](#user-content-安全)
 * [其他](#user-content-其他)
 
+
 ## JavaScript
 1. [JavaScript 异步进化史](https://mp.weixin.qq.com/s?__biz=MzI2NzI4MTEwNA==&mid=2247484285&idx=1&sn=be7d24bc3aa568ace2bca73c06d49037&chksm=ea8074c2ddf7fdd4ac3385b85d04737b26d9919d608e1dbe82df4ab4e9f8a0199a56d1a43dda&mpshare=1&scene=1&srcid=0728QBqMu9kwQxKV33KtFiyN&key=ca249f4a458843b72670c0f597e561d7d8c704d368dcebf8cbb9fa2a3775796049570da7f54c8b367a70b803a2bc30ac081308585f1773eb7b3279df49b67322c716a5e6c1b9ee7a39a2eac2afbe81e7&ascene=0&uin=NzIwMTQ2MDQw&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G31)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=xauhMojtbtOFw5dLFz%2Bl5YUmVvOoWJr%2FEGT9crLNk3YkBhNfIck8sC5ge1dVeZI7)
 2. [JS中的浮点数](https://my.oschina.net/u/2366960/blog/880477)
@@ -56,6 +57,12 @@
 37. [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js)
 38. [尾调用优化](http://www.ruanyifeng.com/blog/2015/04/tail-call.html)
 39. [如何做一个听话的“输入框”](https://mp.weixin.qq.com/s/CARRB4jWpiKFHfjBdnr8fQ)
+40. [“更多|收起”交互中渐进使用transition动画](http://fellowtuts.com/mysql/query-to-obtain-rank-function-in-mysql/)
+41. [reflow和repaint引发的性能问题](https://juejin.im/post/5a9372895188257a6b06132e)
+42. [前端图片压缩、方向纠正、预览、上传插件](https://juejin.im/post/5a9759a16fb9a0635b5360b3)
+43. [JS 装饰器（Decorator）场景实战](https://zhuanlan.zhihu.com/p/30487077)
+44. [Javascript即将迎来Optional Chaining](https://mp.weixin.qq.com/s/b4KV7kvta0l5gewsGBEYKA)
+
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -86,6 +93,8 @@
 26. [前端绘制图形的几种方式](https://www.w3ctrain.com/2015/08/09/working-with-shapes-in-web-design/)
 27. [用css来做html代码检查](https://mp.weixin.qq.com/s/XQKNsmbzXXAMnfHIgCYwMA)
 28. [CSS代码重构与优化之路](http://luopq.com/2016/01/05/css-optimize/)
+29. [canvas 图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/index.html)
+30. [使用Flexible实现手淘H5页面的终端适配](https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
 
 
 ## HTML
@@ -108,6 +117,7 @@
 7. [‘好’维护的NodeJs应用](https://toutiao.io/posts/lbyzdj)
 8. [黑客三兄弟](https://mp.weixin.qq.com/s/YvYvL0siJT1UhO0tXnYVNA)
 9. [GraphQL搭配Koa最佳入门实践](https://juejin.im/post/5a49e5ccf265da430d585cfd#heading-5)
+10. [一次非常有意思的 SQL 优化经历](http://www.techug.com/post/sql-2.html)
 
 ## JavaScript相关库
 1. [RxJS入门](https://juejin.im/post/597fe587518825563e037bd3)
@@ -134,10 +144,11 @@
 4. [webpack之深入浅出externals](http://www.cnblogs.com/ssh-007/p/7957369.html)
 5. [简单易懂的 webpack 打包后 JS 的运行过程](https://juejin.im/post/5a23b130f265da432003101a)
 
-## 数据结构和算法
+## 计算机基础
 1. [我接触过的前端数据结构与算法](https://juejin.im/post/5958bac35188250d892f5c91)
 2. [JS中的算法和数据结构——列表](http://www.jianshu.com/p/cea9f3be42f5)
 3. [图解冒泡排序](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514159&idx=1&sn=5fb3a6639cf6c3ba1aa8f41e577c5076&chksm=80d67cecb7a1f5fa5b734c506fc8d1bc54b64fc36643a2dbceb3c726ba9e05d3aa128974e42f&scene=38#wechat_redirect)
+4. [汇编语言入门教程](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 
 ## 调试
 1. [Chrome开发者工具的153个技巧，还会动哦！](https://umaar.com/dev-tips/)
@@ -198,3 +209,4 @@
 14. [你死在回家的路上](https://weibo.com/1640752460/FCSkcuMZb?type=comment)
 15. [如何优雅地使用 Git](https://juejin.im/post/5a54386af265da3e3b7a6317)
 16. [手把手教你写Docker](https://mp.weixin.qq.com/s?__biz=MzIxMjAzMDA1MQ==&mid=2648946038&idx=1&sn=a020e98c8dcc3ab69af02db3b5312ba4&chksm=8f5b527ab82cdb6c381276bafe504b56be4e91fb9aa9a0729c34fdbb79e12d4ce52ecf45ae7f)
+17. [面向 Web 前端的原生语言总结手册](https://juejin.im/post/5a94b0336fb9a063375759bf)
