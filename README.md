@@ -62,7 +62,10 @@
 42. [前端图片压缩、方向纠正、预览、上传插件](https://juejin.im/post/5a9759a16fb9a0635b5360b3)
 43. [JS 装饰器（Decorator）场景实战](https://zhuanlan.zhihu.com/p/30487077)
 44. [Javascript即将迎来Optional Chaining](https://mp.weixin.qq.com/s/b4KV7kvta0l5gewsGBEYKA)
-
+45. [14招搞定Javascript调试](https://blog.fundebug.com/2017/11/08/14-javascript-debugging-tips/)
+46. [Javascript反调试技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651553774&idx=1&sn=8c10c4d767d351cd3ed4800583770a6e&chksm=8025a82fb7522139ad1af3e1ac8963459a80a79169493a4ef0cd56aae3b4b860d908823ecdd2&scene=38#wechat_redirect)
+47. [Javascript运行机制——Event Loop详解](https://juejin.im/post/5aab2d896fb9a028b86dc2fd)
+48. [Javascript到底有多慢？](https://juejin.im/post/5ab85649518825557b4cbace)
 
 ## CSS
 1. [CSS 变量教程](http://www.ruanyifeng.com/blog/2017/05/css-variables.html)
@@ -95,7 +98,8 @@
 28. [CSS代码重构与优化之路](http://luopq.com/2016/01/05/css-optimize/)
 29. [canvas 图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/index.html)
 30. [使用Flexible实现手淘H5页面的终端适配](https://www.w3cplus.com/mobile/lib-flexible-for-html5-layout.html)
-
+31. [CSS :default选择器](http://www.zhangxinxu.com/wordpress/2018/03/css3-default-pseudo-class-selector/)
+32. [移动字体放大问题研究](https://juejin.im/post/59f678d7f265da43333dabb7?utm_medium=fe&utm_source=weixinqun)
 
 ## HTML
 1. [HTML 自定义元素教程](http://www.ruanyifeng.com/blog/2017/06/custom-elements.html)
@@ -118,6 +122,8 @@
 8. [黑客三兄弟](https://mp.weixin.qq.com/s/YvYvL0siJT1UhO0tXnYVNA)
 9. [GraphQL搭配Koa最佳入门实践](https://juejin.im/post/5a49e5ccf265da430d585cfd#heading-5)
 10. [一次非常有意思的 SQL 优化经历](http://www.techug.com/post/sql-2.html)
+11. [Mysql索引优化分析](https://juejin.im/entry/5a4de13351882512d8232174)
+12. [谈谈MySQL显示类型转换](https://my.oschina.net/u/1462914/blog/1589685)
 
 ## JavaScript相关库
 1. [RxJS入门](https://juejin.im/post/597fe587518825563e037bd3)
@@ -190,7 +196,8 @@
 10. [网络安全-数据加密算法详解](http://blog.csdn.net/yuanmengong886/article/details/54614218)
 11. [对称加密算法的几种模式优缺点一览](http://blog.51cto.com/professor/1794740)
 12. [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
-
+13. [XSS前端防火墙——无懈可击的钩子](http://div.io/topic/445)
+14. [别太天真了，第三方CSS并不安全](https://mp.weixin.qq.com/s/z0qix2VgdJyZu0YjHaWfFw)
 
 ## 其他
 1. [Linux 文件系统概览](http://mp.weixin.qq.com/s/xXd17qgDrMARMP6V9sC7XQ)
@@ -210,3 +217,11 @@
 15. [如何优雅地使用 Git](https://juejin.im/post/5a54386af265da3e3b7a6317)
 16. [手把手教你写Docker](https://mp.weixin.qq.com/s?__biz=MzIxMjAzMDA1MQ==&mid=2648946038&idx=1&sn=a020e98c8dcc3ab69af02db3b5312ba4&chksm=8f5b527ab82cdb6c381276bafe504b56be4e91fb9aa9a0729c34fdbb79e12d4ce52ecf45ae7f)
 17. [面向 Web 前端的原生语言总结手册](https://juejin.im/post/5a94b0336fb9a063375759bf)
+18. [MAC下使用ngrok实现内网穿透](https://blog.csdn.net/u011886447/article/details/73268407)
+19. [从回调地狱道自函子的幺半群：解密熟悉又陌生的Monad](http://ewind.us/2018/monad-callback-hell/)
+20. [可视化技术栈及学习计划](https://zhuanlan.zhihu.com/p/28235128)
+21. [13个有意思的Chrome Develop Tools](http://tuobaye.com/2018/03/26/%E3%80%90%E8%87%AA%E8%AF%91%E3%80%91Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7%E7%9A%8412%E4%B8%AA%E6%9C%89%E8%B6%A3%E6%8A%80%E5%B7%A7%E2%80%94%E2%80%94%E5%B8%8C%E6%9C%9B%E5%B7%B2%E7%BB%8F%E6%8E%8C%E6%8F%A1/)
+22. [视觉格式化模型](https://codertx.github.io/2016/04/19/box-generate/)
+23. [香农的“创意思维”在编程中的应用](https://juejin.im/post/5ab3cd126fb9a028c42e1d92?utm_source=gold_browser_extension)
+24. [什么是蓝绿部署](http://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653193554&idx=1&sn=362e5b5cdb028d6781e813887bf0e5ff&chksm=8c99f788bbee7e9ef74ba9d24b647fa1ce0f64a273735d4cf831531b40cbdd72a61af546603e&mpshare=1&scene=1&srcid=0402VPG8ziksMIAndJY8yCKb&rd2werd=1#wechat_redirect)
+25. [下一代Web应用模型——Progreesive Web App](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
